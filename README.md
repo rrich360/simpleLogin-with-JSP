@@ -17,7 +17,11 @@ it’s used to request that the origin server accept the entity enclosed in the 
 In other words, it allows the user to go to another servlet referenced by “action=” when clicking the submit button on the form.
 
 
--	PICTURE 1.0
+
+
+![1 0- doPOST()](https://user-images.githubusercontent.com/20470279/60327611-54c7d700-995a-11e9-9192-e8891a8a86da.JPG)
+
+
 
 You have to create a class that extends HttpServlet so you can utilize the doPost ( ). This method checks the validation of the
 username and password while sending a response to either receive access to the “member” page or be redirected to the “error” page.
