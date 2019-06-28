@@ -32,9 +32,15 @@ username and password while sending a response to either receive access to the â
 
 The following is the output of when a user enters the right credentials and when the user enters the incorrect credentials : 
 
--	PICTURE 3.0
--	PICTURE 3.1
--	PICTURE 3.2
--	PICTURE 3.3
+![3 0-simpleLogin](https://user-images.githubusercontent.com/20470279/60327743-acfed900-995a-11e9-8377-db495991a725.JPG)
+![3 1-usernameAndPassword](https://user-images.githubusercontent.com/20470279/60327748-af613300-995a-11e9-898c-736eef3ca86d.JPG)
+
+The following is the output of when the user enters the correct username and password :
+
+![3 2-successful login](https://user-images.githubusercontent.com/20470279/60327750-b12af680-995a-11e9-9523-a5207d168d5b.JPG)
+
+The following is an example of when the user enters the wrong username and password : 
+
+![3 3-incorrect login](https://user-images.githubusercontent.com/20470279/60327753-b38d5080-995a-11e9-8589-6e9d5c63fc1b.JPG)
 
 
