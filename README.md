@@ -27,7 +27,7 @@ You have to create a class that extends HttpServlet so you can utilize the doPos
 username and password while sending a response to either receive access to the “member” page or be redirected to the “error” page.
 
 
--	PICTURE 2.0
+![2 0](https://user-images.githubusercontent.com/20470279/60327680-85a80c00-995a-11e9-8285-35f60d1edb71.JPG)
 
 
 The following is the output of when a user enters the right credentials and when the user enters the incorrect credentials : 
